@@ -1,0 +1,16 @@
+.people-container{
+    width: 500px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+.people{
+    background: url("../../public/images/people/Princess_Leia_Organa.png");
+    width: 500px;
+    min-height: 70vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
